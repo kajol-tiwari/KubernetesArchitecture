@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T18:57:54.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="gPOWlGt4oKrHWyHAsqWg" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-04T19:08:00.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="lxFcP69RYw4sDtSRNoTL" version="13.3.5" type="github">
   <diagram id="KEvdlhV-PNgIFsEYXOIJ" name="Page-1">
     <mxGraphModel dx="1022" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,8 +66,8 @@
         <mxCell id="1l1ZAulpspwUXhFEgNU0-30" value="&lt;span&gt;&amp;lt;email&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;lt;password&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span&gt;[SUBMIT]&lt;br&gt;(JS CODE!!!)&lt;br&gt;submit -&amp;gt; DATA+ REQ -&amp;gt; /api/post/new&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="240" width="110" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="1l1ZAulpspwUXhFEgNU0-31" value="google.com/signup" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="220" width="120" height="20" as="geometry" />
+        <mxCell id="1l1ZAulpspwUXhFEgNU0-31" value="google.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1l1ZAulpspwUXhFEgNU0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1l1ZAulpspwUXhFEgNU0-32" target="1l1ZAulpspwUXhFEgNU0-25">
           <mxGeometry relative="1" as="geometry" />
@@ -83,6 +83,9 @@
         </mxCell>
         <mxCell id="1l1ZAulpspwUXhFEgNU0-43" value="10.2.5.11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="478" y="500" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1l1ZAulpspwUXhFEgNU0-48" value="1.2.3.4&lt;br&gt;google.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="230" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
